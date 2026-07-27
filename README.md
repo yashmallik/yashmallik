@@ -85,7 +85,7 @@ focus:
 
 ---
 
-## `> git log --stats`
+<!-- ## `> git log --stats`
 
 <div align="center">
 
@@ -94,7 +94,7 @@ focus:
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashmallik"/>
 
 
-</div>
+</div> -->
 
 <!-- <div align="center">
 
@@ -102,7 +102,6 @@ focus:
 
 </div> -->
 
----
 
 ## `> ls projects/ --featured`
 
