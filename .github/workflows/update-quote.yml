@@ -1,0 +1,64 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    - cron: '3 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and update quote
+        run: |
+          python3 - <<'EOF'
+          import json, urllib.request, re, textwrap
+
+          with urllib.request.urlopen('https://zenquotes.io/api/today') as r:
+              data = json.loads(r.read())[0]
+              quote = data['q']
+              author = data['a']
+
+          W = 54  # inner text width
+          full = f'"{quote}"  — {author}'
+          wrapped = textwrap.wrap(full, W)
+
+          border = '╔' + '═' * (W + 4) + '╗'
+          empty  = '║' + ' ' * (W + 4) + '║'
+          bottom = '╚' + '═' * (W + 4) + '╝'
+
+          rows = [border, empty]
+          for line in wrapped:
+              rows.append(f'║  {line:<{W}}  ║')
+          rows += [empty, bottom]
+
+          new_block = '<!-- QUOTE-START -->\n```\n' + '\n'.join(rows) + '\n```\n<!-- QUOTE-END -->'
+
+          with open('README.md', 'r') as f:
+              content = f.read()
+
+          updated = re.sub(
+              r'<!-- QUOTE-START -->.*?<!-- QUOTE-END -->',
+              new_block,
+              content,
+              flags=re.DOTALL
+          )
+
+          with open('README.md', 'w') as f:
+              f.write(updated)
+
+          print(f"Updated quote: {quote[:60]}...")
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update daily quote"
+          git push

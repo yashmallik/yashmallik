@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=70&lines=Hello%2C+World.+I%27m+%5BYOUR+NAME%5D;Full-Stack+Developer;I+build+things+that+matter.;%3E_%+Let%27s+code+something+epic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=70&lines=Hello%2C+I%27m+Yash.;My+code+works%2C;AI+doesn%27t+know+why+either.;I+turn+ideas+into+products.;50%25+developer%2C+50%25+AI+babysitter;I+write+code+that+ships.;%3E+rm+-rf+excuses)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00FF41,100:00b4d8&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
@@ -9,7 +9,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -19,7 +19,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-</div>
+</div> -->
 
 ---
 
@@ -30,15 +30,15 @@ $ cat about.txt
 ```
 
 ```yaml
-name:       "[Your Name]"
-alias:      "[your-github-handle]"
-location:   "Earth, Milky Way 🌌"
+name:       "Yash Mallik"
+alias:      "yash"
+location:   "Somewhere"
 occupation: "Full-Stack Developer"
 status:     "Always building. Always shipping."
 focus:
   - Crafting seamless user experiences
   - Architecting scalable backend systems
-  - Turning coffee ☕ into clean code
+ 
 ```
 
 ---
@@ -56,8 +56,8 @@ focus:
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -75,14 +75,11 @@ focus:
 
 ```
 ┌─────────────────────────────────────────────┐
-│  🚀  Currently working on:                  │
-│      [Your current project name here]        │
-│                                             │
 │  📖  Currently learning:                    │
-│      [e.g. Rust / AI Agents / WebAssembly]  │
+│       springBoot / AI Agents / Rust         │
 │                                             │
-│  🎯  2025 Goal:                             │
-│      [e.g. Ship 3 open source projects]     │
+│  🎯  2026 Goal:                             │
+│      Create good not evil                   │
 └─────────────────────────────────────────────┘
 ```
 
@@ -92,17 +89,18 @@ focus:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00FF41&bg_color=0d0d0d&title_color=00FF41&icon_color=00b4d8&text_color=ffffff"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashmallik" width="100%"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashmallik&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashmallik"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00FF41&bg_color=0d0d0d&title_color=00FF41&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&border=00FF41&ring=00FF41&fire=00b4d8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00b4d8&sideLabels=aaaaaa&dates=555555&background=0d0d0d)](https://git.io/streak-stats)
 
 </div>
+
+<!-- <div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yashmallik&theme=dark&border=00FF41&ring=00FF41&fire=00b4d8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00b4d8&sideLabels=aaaaaa&dates=555555&background=0d0d0d)](https://git.io/streak-stats)
+
+</div> -->
 
 ---
 
@@ -110,9 +108,11 @@ focus:
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME&theme=chartreuse-dark&border_color=00FF41&bg_color=0d0d0d&title_color=00FF41&icon_color=00b4d8&text_color=ffffff)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)
+[![ioaa](https://img.shields.io/badge/ioaa-View%20Repo-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/yashmallik/ioaa)
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME_2&theme=chartreuse-dark&border_color=00FF41&bg_color=0d0d0d&title_color=00FF41&icon_color=00b4d8&text_color=ffffff)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME_2)
+[![openshop](https://img.shields.io/badge/openshop-View%20Repo-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/yashmallik/openshop)
+
+[![Devcareer](https://img.shields.io/badge/openshop-View%20Repo-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/yashmallik/devcareer)
 
 </div>
 
@@ -122,10 +122,10 @@ focus:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00FF41)](https://yourportfolio.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashmallik/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashmallik12@gmail.com)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER) -->
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00FF41)](https://yourportfolio.dev) -->
 
 </div>
 
@@ -133,19 +133,23 @@ focus:
 
 <div align="center">
 
+<!-- QUOTE-START -->
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║   "Any sufficiently advanced technology is              ║
-║    indistinguishable from magic."  — Arthur C. Clarke   ║
-║                                                          ║
-║   > Keep shipping. Keep learning. Keep building. _       ║
+║  "But better die than live mechanically a life that is   ║
+║  a repetition of repetitions."  — D. H. Lawrence         ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
+```
+<!-- QUOTE-END -->
+
+```
+  > Keep shipping. Keep learning. Keep building. _
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:00FF41,100:0f0f0f&height=100&section=footer" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00FF41&style=flat-square&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=yashmallik&color=00FF41&style=flat-square&label=VISITORS)
 
 </div>
