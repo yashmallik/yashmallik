@@ -16,7 +16,7 @@
 ║        ⚔️   YASH MALLIK  •  FULL-STACK DEVELOPER  ⚔️          ║
 ║                                                               ║
 ║   CLASS   : Full-Stack Developer                              ║
-║   LEVEL   : ████████████░░░░  Senior                          ║
+║   LEVEL   : ██████░░░░░░░░░░                                  ║
 ║   GUILD   : Open Source                                       ║
 ║   REGION  : India                                             ║
 ║   STATUS  : Always building. Always shipping.                 ║
