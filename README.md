@@ -136,8 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "New beginnings are disguised as painful endings."  —   ║
-║  Lao Tzu                                                 ║
+║  "Expect the best of yourself, and then do what is       ║
+║  necessary to make it a reality."  — Ralph Marston       ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
