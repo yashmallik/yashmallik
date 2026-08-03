@@ -136,9 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Yesterday is history, tomorrow is a mystery, today is  ║
-║  God's gift, that's why we call it the present."  —      ║
-║  Joan Rivers                                             ║
+║  "It all depends on what you choose to believe."  —      ║
+║  Spencer Johnson                                         ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
