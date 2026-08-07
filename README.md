@@ -136,8 +136,7 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Talk sense to a fool and he calls you foolish."  —     ║
-║  Euripides                                               ║
+║  "Ability is a poor man's wealth."  — John Wooden        ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
