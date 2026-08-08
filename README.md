@@ -136,7 +136,9 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Ability is a poor man's wealth."  — John Wooden        ║
+║  "The greatest discovery of all time is that a person    ║
+║  can change their future by merely changing their        ║
+║  attitude."  — Oprah Winfrey                             ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
