@@ -136,8 +136,7 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Correct what you can. Learn from what you can't."  —   ║
-║  Toni Morrison                                           ║
+║  "Still your waters."  — Josh Waitzkin                   ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
