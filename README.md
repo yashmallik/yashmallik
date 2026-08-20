@@ -136,8 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Why change? Everyone has his own style. When you have  ║
-║  found it, you should stick to it."  — Audrey Hepburn    ║
+║  "No matter how tall the mountain is, it cannot block    ║
+║  the sun."  — Chinese Proverb                            ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
