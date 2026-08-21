@@ -136,8 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "No matter how tall the mountain is, it cannot block    ║
-║  the sun."  — Chinese Proverb                            ║
+║  "Listen to the secret sound, the real sound, which is   ║
+║  inside you."  — Kabir                                   ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
