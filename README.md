@@ -136,8 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "To a mind that is still, the entire universe           ║
-║  surrenders."  — Zhuangzi                                ║
+║  "Stop wasting time defending your problems and work on  ║
+║  addressing them instead."  — Celestine Chua             ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
