@@ -136,8 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Stop wasting time defending your problems and work on  ║
-║  addressing them instead."  — Celestine Chua             ║
+║  "Force has no place where there is need of skill."  —   ║
+║  Herodotus                                               ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
