@@ -136,8 +136,9 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Do good by stealth, and blush to find it fame."  —     ║
-║  Alexander Pope                                          ║
+║  "However difficult life may seem, there is always       ║
+║  something you can do and succeed at."  — Stephen        ║
+║  Hawking                                                 ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
