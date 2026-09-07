@@ -136,8 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "A man with outward courage dares to die: a man with    ║
-║  inner courage dares to live."  — Lao Tzu                ║
+║  "The greatest treasures are those invisible to the eye  ║
+║  but found by the heart."  — Judy Garland                ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
