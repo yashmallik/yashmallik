@@ -136,8 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "High thoughts must have high language."  —             ║
-║  Aristophanes                                            ║
+║  "We are all like the bright moon, we still have our     ║
+║  darker side."  — Kahlil Gibran                          ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
