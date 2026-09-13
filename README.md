@@ -136,7 +136,7 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "He who leaves the game wins it."  — Nicolas Chamfort   ║
+║  "Everyday is a second chance."  — Unknown               ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
