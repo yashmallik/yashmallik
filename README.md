@@ -136,8 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "If you spend too much time thinking about a thing,     ║
-║  you'll never get it done."  — Bruce Lee                 ║
+║  "Knowing yourself is the beginning of all wisdom."  —   ║
+║  Aristotle                                               ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
