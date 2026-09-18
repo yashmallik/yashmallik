@@ -136,8 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "When things go wrong, don't go with them."  — Elvis    ║
-║  Presley                                                 ║
+║  "Till it has loved, no man or woman can become          ║
+║  itself."  — Emily Dickinson                             ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
