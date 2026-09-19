@@ -136,8 +136,7 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Till it has loved, no man or woman can become          ║
-║  itself."  — Emily Dickinson                             ║
+║  "Make your mind your own business."  — Jack Butcher     ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
