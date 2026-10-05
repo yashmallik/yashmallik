@@ -136,8 +136,9 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Would you rather learn to deal with the truth now      ║
-║  than be forced to do so later on?"  — Celestine Chua    ║
+║  "Engage in those actions and thoughts that nurture the  ║
+║  good qualities you want to have."  — Paramahansa        ║
+║  Yogananda                                               ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
