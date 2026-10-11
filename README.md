@@ -136,7 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Ability is a poor man's wealth."  — John Wooden        ║
+║  "You only live once, but if you do it right, once is    ║
+║  enough."  — Mae West                                    ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
