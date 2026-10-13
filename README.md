@@ -136,8 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Those who know, do. Those that understand, teach."  —  ║
-║  Aristotle                                               ║
+║  "Life can be the scariest and most beautiful thing      ║
+║  simultaneously."  — Maxime Lagace                       ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
