@@ -136,8 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Life can be the scariest and most beautiful thing      ║
-║  simultaneously."  — Maxime Lagace                       ║
+║  "Genius is one percent inspiration and ninety-nine      ║
+║  percent perspiration."  — Thomas Edison                 ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
