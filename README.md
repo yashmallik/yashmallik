@@ -136,9 +136,9 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "If someone betrays you once, it's their fault; if      ║
-║  they betray you twice, it's your fault."  — Eleanor     ║
-║  Roosevelt                                               ║
+║  "There are more quarrels smothered by just shutting     ║
+║  your mouth, and holding it shut, than by all the        ║
+║  wisdom in the world."  — Henry Ward Beecher             ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
