@@ -136,8 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "The wiser you get, the less you care to look like a    ║
-║  fool."  — Maxime Lagace                                 ║
+║  "Loving thoughts and actions are clearly beneficial     ║
+║  for our physical and mental health."  — Dalai Lama      ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
