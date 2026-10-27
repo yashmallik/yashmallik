@@ -136,8 +136,7 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Loving thoughts and actions are clearly beneficial     ║
-║  for our physical and mental health."  — Dalai Lama      ║
+║  "Still your waters."  — Josh Waitzkin                   ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
