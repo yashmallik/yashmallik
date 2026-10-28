@@ -136,7 +136,7 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Still your waters."  — Josh Waitzkin                   ║
+║  "What we dwell on is who we become."  — Oprah Winfrey   ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
