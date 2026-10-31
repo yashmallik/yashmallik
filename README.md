@@ -136,8 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Distant water does not put out a nearby fire."  —      ║
-║  Chinese Proverb                                         ║
+║  "When you believe in a thing, believe in it all the     ║
+║  way, implicitly and unquestionable."  — Walt Disney     ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
