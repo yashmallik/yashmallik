@@ -136,9 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "If you want others to be happy, practice compassion.   ║
-║  If you want to be happy, practice compassion."  —       ║
-║  Dalai Lama                                              ║
+║  "When the time is gone, you can never get it back."  —  ║
+║  Stephen King                                            ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
