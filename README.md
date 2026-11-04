@@ -136,8 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "When the time is gone, you can never get it back."  —  ║
-║  Stephen King                                            ║
+║  "What the eye doesn't see and the mind doesn't know,    ║
+║  doesn't exist."  — D. H. Lawrence                       ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
