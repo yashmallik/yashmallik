@@ -136,8 +136,7 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "What the eye doesn't see and the mind doesn't know,    ║
-║  doesn't exist."  — D. H. Lawrence                       ║
+║  "Debt is the slavery of the free."  — Publilius Syrus   ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
