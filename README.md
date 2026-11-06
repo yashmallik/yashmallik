@@ -136,7 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Debt is the slavery of the free."  — Publilius Syrus   ║
+║  "Your mind is infinite, it's your doubts that are       ║
+║  limiting."  — Robert Kiyosaki                           ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
