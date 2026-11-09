@@ -136,9 +136,10 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "People spend too much time doing and not enough time   ║
-║  thinking about what they should be doing."  — Naval     ║
-║  Ravikant                                                ║
+║  "It isn't what you have or who you are or where you     ║
+║  are or what you are doing that makes you happy or       ║
+║  unhappy. It is what you think about it."  — Dale        ║
+║  Carnegie                                                ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
