@@ -136,8 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "The weak can never forgive. Forgiveness is the         ║
-║  attribute of the strong."  — Mahatma Gandhi             ║
+║  "I dream my painting and I paint my dream."  — Vincent  ║
+║  van Gogh                                                ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
