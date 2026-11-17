@@ -136,8 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "I dream my painting and I paint my dream."  — Vincent  ║
-║  van Gogh                                                ║
+║  "If you can't argue both sides, you can't argue."  —    ║
+║  Jack Butcher                                            ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
