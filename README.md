@@ -136,8 +136,7 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "If you can't argue both sides, you can't argue."  —    ║
-║  Jack Butcher                                            ║
+║  "Silence is a source of great strength."  — Lao Tzu     ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
