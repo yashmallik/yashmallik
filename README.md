@@ -136,7 +136,7 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Silence is a source of great strength."  — Lao Tzu     ║
+║  "You are never too old to become younger."  — Mae West  ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
