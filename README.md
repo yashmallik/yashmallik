@@ -136,7 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "You are never too old to become younger."  — Mae West  ║
+║  "Never waste a minute of your precious life thinking    ║
+║  about people you don't like."  — Celestine Chua         ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
