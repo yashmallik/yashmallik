@@ -136,8 +136,7 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Peace is not the absence of conflict, but the ability  ║
-║  to cope with it."  — Unknown                            ║
+║  "Have a vision. Be demanding."  — Colin Powell          ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
