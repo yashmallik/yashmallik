@@ -136,8 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "We have to live life with a sense of urgency so not a  ║
-║  minute is wasted."  — Les Brown                         ║
+║  "Keep your eyes on the stars, but remember to keep      ║
+║  your feet on the ground."  — Theodore Roosevelt         ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
