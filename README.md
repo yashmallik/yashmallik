@@ -136,8 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "Keep your eyes on the stars, but remember to keep      ║
-║  your feet on the ground."  — Theodore Roosevelt         ║
+║  "It takes half your life before you discover life is a  ║
+║  do-it-yourself project."  — Napoleon Hill               ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
