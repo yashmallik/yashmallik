@@ -136,8 +136,8 @@ focus:
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  "It takes half your life before you discover life is a  ║
-║  do-it-yourself project."  — Napoleon Hill               ║
+║  "High thoughts must have high language."  —             ║
+║  Aristophanes                                            ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
